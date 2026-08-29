@@ -1,6 +1,8 @@
 # Error Codes
 All collected Discord error codes, categorized by type. See on [Userdoccers](https://docs.discord.food/datamining/errors).
 
+Orignally Made by Dziurwa14
+
 ## Unknown Entity
 | Code | Message |
 | ---- | ------- |
